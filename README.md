@@ -91,7 +91,7 @@ aurelle-store/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone (https://github.com/pr7212/aurelle-store.git)
 ```
 
 ### 2. Navigate into the project
